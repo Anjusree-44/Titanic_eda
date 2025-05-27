@@ -1,3 +1,9 @@
+![2 6](https://github.com/user-attachments/assets/8456c251-304e-46c4-bb44-b0c7491d32ae)
+![2 5](https://github.com/user-attachments/assets/5ccea793-4360-41ae-8948-cc9d54012569)
+![2 4](https://github.com/user-attachments/assets/33bce231-ee67-4293-92ee-b57e5afabe9e)
+![2 3](https://github.com/user-attachments/assets/9baeb541-9a73-49a3-9981-e8dc329cc88c)
+![2 2](https://github.com/user-attachments/assets/fe8efd4f-9a91-4209-9d47-4b1b18638845)
+![2 1](https://github.com/user-attachments/assets/3ea2c6ae-7ced-4587-91a2-71ca8b62d087)
 # Titanic_eda
 # Import libraries
 import pandas as pd
